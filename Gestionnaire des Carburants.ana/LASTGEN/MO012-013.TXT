@@ -1,0 +1,6 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Carburant		TAR	77	nouvelle taille enregistrement : 77
+Carburant	Date	RUB+		Date est une nouvelle rubrique
+Carburant	Prix	RUB+		Prix est une nouvelle rubrique
+Prix_Carburant		FIC-	Prix_Carburant	Fichier supprimé Prix_Carburant
+Contrainte_Carburant_Prix_Carburant		DEL	Carburant (IDCarburant) et Prix_Carburant (IDCarburant)	Liaison supprimée entre les fichiers Carburant (IDCarburant) et Prix_Carburant (IDCarburant)

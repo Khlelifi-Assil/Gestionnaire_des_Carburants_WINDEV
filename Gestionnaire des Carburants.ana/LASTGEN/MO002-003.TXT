@@ -1,0 +1,6 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Voiture		TAR	290	nouvelle taille enregistrement : 290
+Voiture		IDE-*		fichier sans identifiant
+Voiture	IDVoiture	CNW	Chaîne$Identifiant automatique (8 octets)	la rubrique IDVoiture a pour nouveau type Chaîne
+Demande_Carburant		TAR	1828	nouvelle taille enregistrement : 1828
+Demande_Carburant	IDVoiture	CNW	Chaîne$Entier sur 8 octets	la rubrique IDVoiture a pour nouveau type Chaîne

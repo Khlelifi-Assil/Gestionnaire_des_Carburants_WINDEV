@@ -1,0 +1,10 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=6	;Analysis GUID
+LOCALIZATION_CS_UTF8=34C1F530C477401891EE39349664DE8D	Demande_des_bons_de_station	.\Demande_des_bons_de_station.fic	10.25.53.92:4900	10.25.53.92:4900	Gestionnaire_des_Carburants
+LOCALIZATION_CS_UTF8=C0085A8C3E1B4112ACD2406C8314F703	Bonsdestation	.\Bonsdestation.fic	10.25.53.92:4900	10.25.53.92:4900	Gestionnaire_des_Carburants
+LOCALIZATION_CS_UTF8=7AE47B64EFFF401CA05FF24BED976F06	Voiture	.\Voiture.fic	10.25.53.92:4900	10.25.53.92:4900	Gestionnaire_des_Carburants
+LOCALIZATION_CS_UTF8=0737468381524AA2AC7F00FF1A69C91D	Fonction_Cadre	.\Fonction_Cadre.fic	10.25.53.92:4900	10.25.53.92:4900	Gestionnaire_des_Carburants
+LOCALIZATION_CS_UTF8=52EB68AC208A4C188D1D0EA4559702B5	Carburant	.\Carburant.fic	10.25.53.92:4900	10.25.53.92:4900	Gestionnaire_des_Carburants
+LOCALIZATION_CS_UTF8=84D36A09589E4FACBA3614B7859B6D99	Departement_Direction	.\Departement_Direction.fic	10.25.53.92:4900	10.25.53.92:4900	Gestionnaire_des_Carburants
+LOCALIZATION_CS_UTF8=0737468381524AA2AC7F00FF1A69C91D	Fonction_Cadre	.\Fonction_Cadre.fic	127.0.0.1:4900	127.0.0.1:4900	Gestionnaire_des_Carburants

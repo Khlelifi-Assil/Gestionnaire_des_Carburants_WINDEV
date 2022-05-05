@@ -1,0 +1,5 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+GPU_UtilisateurMDP		TAR	95	nouvelle taille enregistrement : 95
+GPU_UtilisateurMDP	MotPasseCrypte	NNR	Hash	ATTENTION : la rubrique Hash a pour nouveau nom MotPasseCrypte
+GPU_UtilisateurMDP	MotPasseCrypte	CNW	Chaîne binaire$Mémo Binaire	la rubrique MotPasseCrypte a pour nouveau type Chaîne binaire
+GPU_UtilisateurMDP	Salt	RUB-		la rubrique Salt est supprimée

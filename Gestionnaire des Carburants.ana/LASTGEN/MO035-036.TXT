@@ -1,0 +1,7 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+Cadre		TAR	379	nouvelle taille enregistrement : 379
+Cadre	Valeur_1	CNW	Entier non signé sur 2 octets$Chaîne	la rubrique Valeur_1 a pour nouveau type Entier non signé sur 2 octets
+Cadre	Valeur_2	CNW	Entier non signé sur 2 octets$Chaîne	la rubrique Valeur_2 a pour nouveau type Entier non signé sur 2 octets
+Cadre	IDFonction_Cadre	RUB+		IDFonction_Cadre est une nouvelle clé
+Contrainte_Fonction_Cadre_Cadre		NWL	Fonction_Cadre (IDFonction_Cadre) et Cadre (IDFonction_Cadre)	Nouvelle liaison entre les fichiers Fonction_Cadre (IDFonction_Cadre) et Cadre (IDFonction_Cadre)
+Contrainte_Fonction_Cadre_Cadre_Quota_mensuelle		DEL	Fonction_Cadre (IDFonction_Cadre) et Cadre_Quota_mensuelle (IDFonction_Cadre)	Liaison supprimée entre les fichiers Fonction_Cadre (IDFonction_Cadre) et Cadre_Quota_mensuelle (IDFonction_Cadre)

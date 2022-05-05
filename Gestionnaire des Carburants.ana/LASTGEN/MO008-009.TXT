@@ -1,0 +1,4 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Voiture		TAR	368	nouvelle taille enregistrement : 368
+Voiture	Année_circulation	RUB-		la rubrique Année_circulation est supprimée
+Voiture	Numero_Serie	RUB-		la rubrique Numero_Serie est supprimée

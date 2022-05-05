@@ -1,0 +1,4 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Cadre		TAR	426	nouvelle taille enregistrement : 426
+Cadre	Date_Fonction	RUB+		Date_Fonction est une nouvelle rubrique
+Cadre	Enfonction	RUB+		Enfonction est une nouvelle rubrique

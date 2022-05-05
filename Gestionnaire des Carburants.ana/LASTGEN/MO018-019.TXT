@@ -1,0 +1,4 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Demande_des_bons_de_station		TAR	309	nouvelle taille enregistrement : 309
+Demande_des_bons_de_station	IDVoiture	RUB+		IDVoiture est une nouvelle clé
+Contrainte_Voiture_Demande_des_bons_de_station		NWL	Voiture (IDVoiture) et Demande_des_bons_de_station (IDVoiture)	Nouvelle liaison entre les fichiers Voiture (IDVoiture) et Demande_des_bons_de_station (IDVoiture)

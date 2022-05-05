@@ -1,0 +1,9 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Voiture		TAR	371	nouvelle taille enregistrement : 371
+Voiture	IDVoiture	TAI-	40	la rubrique IDVoiture a comme nouvelle taille 11 au lieu de 51
+Voiture	Carte_Agilis	TAI-	30	la rubrique Carte_Agilis a comme nouvelle taille 21 au lieu de 51
+Voiture	type_Voiture	TAI-	30	la rubrique type_Voiture a comme nouvelle taille 21 au lieu de 51
+Demande_Carburant		TAR	1788	nouvelle taille enregistrement : 1788
+Demande_Carburant	IDVoiture	TAI-	40	la rubrique IDVoiture a comme nouvelle taille 11 au lieu de 51
+Demande_des_bons_de_station		TAR	269	nouvelle taille enregistrement : 269
+Demande_des_bons_de_station	IDVoiture	TAI-	40	la rubrique IDVoiture a comme nouvelle taille 11 au lieu de 51

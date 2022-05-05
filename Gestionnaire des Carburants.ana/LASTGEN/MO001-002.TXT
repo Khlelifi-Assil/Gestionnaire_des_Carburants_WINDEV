@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Demande_Carburant		TAR	1785	nouvelle taille enregistrement : 1785
+Demande_Carburant	Note	RUB+		Note est une nouvelle rubrique
+Demande_Carburant	Date_Note	RUB+		Date_Note est une nouvelle rubrique
+Demande_Carburant	Sacnner	RUB+		Sacnner est une nouvelle rubrique

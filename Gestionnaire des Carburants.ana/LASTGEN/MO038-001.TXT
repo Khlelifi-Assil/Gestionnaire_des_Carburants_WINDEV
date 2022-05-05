@@ -1,0 +1,10 @@
+//MO038-001.TXT ANA00038 TO ANA00001
+Cadre		TAR	154	nouvelle taille enregistrement : 154
+Cadre	Nom	TAI-	20	la rubrique Nom a comme nouvelle taille 31 au lieu de 51
+Cadre	Prenom	TAI-	20	la rubrique Prenom a comme nouvelle taille 31 au lieu de 51
+Cadre	Carte_Agilis_1	TAI-	34	la rubrique Carte_Agilis_1 a comme nouvelle taille 17 au lieu de 51
+Cadre	Carte_Agilis_2	TAI-	34	la rubrique Carte_Agilis_2 a comme nouvelle taille 17 au lieu de 51
+Cadre	Date_Fonction	CNW	Date (aaaammjj)$Chaîne	la rubrique Date_Fonction a pour nouveau type Date (aaaammjj)
+Cadre	IDFonction_Cadre	TAI-	25	la rubrique IDFonction_Cadre a comme nouvelle taille 26 au lieu de 51
+Fonction_Cadre		TAR	39	nouvelle taille enregistrement : 39
+Fonction_Cadre	IDFonction_Cadre	TAI-	25	la rubrique IDFonction_Cadre a comme nouvelle taille 26 au lieu de 51

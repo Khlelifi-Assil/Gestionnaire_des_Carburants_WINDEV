@@ -1,0 +1,11 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Voiture		NFI		nouveau fichier
+Cota		NFI		nouveau fichier
+Departement_Direction		NFI		nouveau fichier
+Demande_Carburant		NFI		nouveau fichier
+Prix_Carburant		NFI		nouveau fichier
+Contrainte_Cota_Voiture		NWL	Cota (IDCota) et Voiture (IDCota)	Nouvelle liaison entre les fichiers Cota (IDCota) et Voiture (IDCota)
+Contrainte_Departement_Direction_Voiture		NWL	Departement_Direction (IDDepartement_Direction) et Voiture (IDDepartement_Direction)	Nouvelle liaison entre les fichiers Departement_Direction (IDDepartement_Direction) et Voiture (IDDepartement_Direction)
+Contrainte_Prix_Carburant_Demande_Carburant		NWL	Prix_Carburant (IDPrix_Carburant) et Demande_Carburant (IDPrix_Carburant)	Nouvelle liaison entre les fichiers Prix_Carburant (IDPrix_Carburant) et Demande_Carburant (IDPrix_Carburant)
+Contrainte_Voiture_Demande_Carburant		NWL	Voiture (IDVoiture) et Demande_Carburant (IDVoiture)	Nouvelle liaison entre les fichiers Voiture (IDVoiture) et Demande_Carburant (IDVoiture)
+Connexion Gestion Des Carburants 		CNX+		

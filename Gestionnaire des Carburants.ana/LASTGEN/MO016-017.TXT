@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Demande_des_bons_de_station		TAR	254	nouvelle taille enregistrement : 254
+Demande_des_bons_de_station	Index	RUB+		Index est une nouvelle rubrique

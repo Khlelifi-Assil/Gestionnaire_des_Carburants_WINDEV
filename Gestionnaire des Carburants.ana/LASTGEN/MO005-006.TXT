@@ -1,0 +1,19 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Voiture	IDCarburant	RUB+		IDCarburant est une nouvelle clé
+Voiture	Carburant	RUB-		la rubrique Carburant est supprimée
+Demande_Carburant		TAR	1871	nouvelle taille enregistrement : 1871
+Demande_Carburant	IDPrix_Carburant	RUB+		IDPrix_Carburant est une nouvelle clé
+Demande_Carburant	IDCarburant	RUB+		IDCarburant est une nouvelle clé
+Demande_Carburant	IDPrix_Carburant	RUB-		la clé IDPrix_Carburant est supprimée
+Demande_Carburant	Type_Carburant	RUB-		la rubrique Type_Carburant est supprimée
+Prix_Carburant		TAR	128	nouvelle taille enregistrement : 128
+Prix_Carburant		IDE-*		fichier sans identifiant
+Prix_Carburant	IDPrix_Carburant	CNW	Chaîne$Identifiant automatique (8 octets)	la rubrique IDPrix_Carburant a pour nouveau type Chaîne
+Prix_Carburant	IDCarburant	RUB+		IDCarburant est une nouvelle clé
+Prix_Carburant	Type_Carburant	RUB-		la rubrique Type_Carburant est supprimée
+Carburant		NFI		nouveau fichier
+Contrainte_Prix_Carburant_Demande_Carburant		NWL	Prix_Carburant (IDPrix_Carburant) et Demande_Carburant (IDPrix_Carburant)	Nouvelle liaison entre les fichiers Prix_Carburant (IDPrix_Carburant) et Demande_Carburant (IDPrix_Carburant)
+Contrainte_Carburant_Voiture		NWL	Carburant (IDCarburant) et Voiture (IDCarburant)	Nouvelle liaison entre les fichiers Carburant (IDCarburant) et Voiture (IDCarburant)
+Contrainte_Carburant_Prix_Carburant		NWL	Carburant (IDCarburant) et Prix_Carburant (IDCarburant)	Nouvelle liaison entre les fichiers Carburant (IDCarburant) et Prix_Carburant (IDCarburant)
+Contrainte_Carburant_Demande_Carburant		NWL	Carburant (IDCarburant) et Demande_Carburant (IDCarburant)	Nouvelle liaison entre les fichiers Carburant (IDCarburant) et Demande_Carburant (IDCarburant)
+Contrainte_Prix_Carburant_Demande_Carburant		DEL	Prix_Carburant (IDPrix_Carburant) et Demande_Carburant (IDPrix_Carburant)	Liaison supprimée entre les fichiers Prix_Carburant (IDPrix_Carburant) et Demande_Carburant (IDPrix_Carburant)

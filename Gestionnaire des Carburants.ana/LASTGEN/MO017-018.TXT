@@ -1,0 +1,8 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Bonsdestation		TAR	33	nouvelle taille enregistrement : 33
+Bonsdestation		IDE-*		fichier sans identifiant
+Bonsdestation	IDBonsdestation	CNW	Entier non signé sur 4 octets$Identifiant automatique (8 octets)	la rubrique IDBonsdestation a pour nouveau type Entier non signé sur 4 octets
+Bonsdestation	Tete	RUB-		la rubrique Tete est supprimée
+Demande_des_bons_de_station		TAR	258	nouvelle taille enregistrement : 258
+Demande_des_bons_de_station	IDBonsdestation	RUB+		IDBonsdestation est une nouvelle clé
+Contrainte_Bonsdestation_Demande_des_bons_de_station		NWL	Bonsdestation (IDBonsdestation) et Demande_des_bons_de_station (IDBonsdestation)	Nouvelle liaison entre les fichiers Bonsdestation (IDBonsdestation) et Demande_des_bons_de_station (IDBonsdestation)

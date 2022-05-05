@@ -1,0 +1,5 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Voiture		TAR	286	nouvelle taille enregistrement : 286
+Voiture	Cota_mensuelle	RUB+		Cota_mensuelle est une nouvelle rubrique
+Voiture	IDCota	RUB-		la clé IDCota est supprimée
+Contrainte_Cota_Voiture		DEL	Cota (IDCota) et Voiture (IDCota)	Liaison supprimée entre les fichiers Cota (IDCota) et Voiture (IDCota)

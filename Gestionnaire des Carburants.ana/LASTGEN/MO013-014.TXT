@@ -1,0 +1,4 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Demande_Carburant		TAR	1828	nouvelle taille enregistrement : 1828
+Demande_Carburant	Prix	RUB+		Prix est une nouvelle rubrique
+Demande_Carburant	IDPrix_Carburant	RUB-		la clé IDPrix_Carburant est supprimée

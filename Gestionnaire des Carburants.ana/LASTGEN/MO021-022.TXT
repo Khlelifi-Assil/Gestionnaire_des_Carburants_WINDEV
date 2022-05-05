@@ -1,0 +1,7 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Cadre		NFI		nouveau fichier
+Fonction_Cadre		NFI		nouveau fichier
+Cadre_Quota_mensuelle		NFI		nouveau fichier
+Contrainte_Fonction_Cadre_Cadre_Quota_mensuelle		NWL	Fonction_Cadre (IDFonction_Cadre) et Cadre_Quota_mensuelle (IDFonction_Cadre)	Nouvelle liaison entre les fichiers Fonction_Cadre (IDFonction_Cadre) et Cadre_Quota_mensuelle (IDFonction_Cadre)
+Contrainte_Cadre_Cadre_Quota_mensuelle		NWL	Cadre (IDCadre) et Cadre_Quota_mensuelle (IDCadre)	Nouvelle liaison entre les fichiers Cadre (IDCadre) et Cadre_Quota_mensuelle (IDCadre)
+Contrainte_Carburant_Cadre_Quota_mensuelle		NWL	Carburant (IDCarburant) et Cadre_Quota_mensuelle (IDCarburant)	Nouvelle liaison entre les fichiers Carburant (IDCarburant) et Cadre_Quota_mensuelle (IDCarburant)

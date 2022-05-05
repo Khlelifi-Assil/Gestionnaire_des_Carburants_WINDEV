@@ -1,0 +1,7 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Voiture		TAR	429	nouvelle taille enregistrement : 429
+Voiture	IDDepartement_Direction	CNW	Chaîne$Entier sur 8 octets	la rubrique IDDepartement_Direction a pour nouveau type Chaîne
+Departement_Direction		TAR	160	nouvelle taille enregistrement : 160
+Departement_Direction		IDE-*		fichier sans identifiant
+Departement_Direction	IDDepartement_Direction	CNW	Chaîne$Identifiant automatique (8 octets)	la rubrique IDDepartement_Direction a pour nouveau type Chaîne
+Departement_Direction	Departement_Direction	RUB-		la rubrique Departement_Direction est supprimée

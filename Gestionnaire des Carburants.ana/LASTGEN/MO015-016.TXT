@@ -1,0 +1,4 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Bonsdestation		NFI		nouveau fichier
+Demande_des_bons_de_station		NFI		nouveau fichier
+Contrainte_Departement_Direction_Demande_des_bons_de_station		NWL	Departement_Direction (IDDepartement_Direction) et Demande_des_bons_de_station (IDDepartement_Direction)	Nouvelle liaison entre les fichiers Departement_Direction (IDDepartement_Direction) et Demande_des_bons_de_station (IDDepartement_Direction)

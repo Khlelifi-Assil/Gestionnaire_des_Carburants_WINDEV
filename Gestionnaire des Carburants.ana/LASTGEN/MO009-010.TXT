@@ -1,0 +1,8 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Demande_Carburant		TAR	1824	nouvelle taille enregistrement : 1824
+Demande_Carburant	IDPrix_Carburant	RUB+		IDPrix_Carburant est une nouvelle clé
+Demande_Carburant	IDPrix_Carburant	RUB-		la clé IDPrix_Carburant est supprimée
+Prix_Carburant		TAR	81	nouvelle taille enregistrement : 81
+Prix_Carburant		IDE+*		fichier avec identifiant
+Prix_Carburant	IDPrix_Carburant	CNW	Identifiant automatique (4 octets)$Chaîne	la rubrique IDPrix_Carburant a pour nouveau type Identifiant automatique (4 oct
+Contrainte_Prix_Carburant_Demande_Carburant		DEL	Prix_Carburant (IDPrix_Carburant) et Demande_Carburant (IDPrix_Carburant)	Liaison supprimée entre les fichiers Prix_Carburant (IDPrix_Carburant) et Demande_Carburant (IDPrix_Carburant)
